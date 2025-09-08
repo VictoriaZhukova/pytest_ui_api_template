@@ -16,12 +16,13 @@
 - config
 
 ### Струткура:
-- ./test - тесты
+- ./test - UI- и API-тесты
 - ./allure-results - результаты
 
 ### Полезные ссылки
 - [Подсказка по markdown](https://www.markdownguide.org/basic-syntax/)
 - [Генератор файла .gitignore](https://www.toptal.com/developers/gitignore)
+- [Ссылка на проект](https://zhukova-victoria.yonote.ru/share/49f4215a-c537-4d8b-a789-e970aff7cac4)
 
 ### Библиотеки (!)
 - pyp install pytest
